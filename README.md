@@ -1,4 +1,5 @@
 # TXCache
+[![Build Status](https://drone.io/github.com/tingxin/txcache/status.png)](https://drone.io/github.com/tingxin/txcache/latest)
 * TXCache is easy and high performance cache library.
  
 * TXCache use the fetcher get data automatically, user don't need take care the data when the data expired or invalid
